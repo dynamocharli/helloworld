@@ -3,7 +3,8 @@ using namespace std;
 
 int main(){
   
-  cout<<"hello world";
+  // this is basic program to print hello world in cpp
+  cout<<"hello world i am gaurav singh rathore";
   return 0;
  
 }
